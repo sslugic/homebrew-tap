@@ -1,6 +1,6 @@
 cask "undertone" do
-  version "1.18.15"
-  sha256 "128d19c960a91233988d12eb83c53965ebad3a6d9de81734ee721faa46763dda"
+  version "1.18.16"
+  sha256 "0fe589b44724f24b92bd2fd30a7def7b21c888e16bccf8f80bc9cff9f48c3bc7"
 
   url "https://github.com/sslugic/undertone/releases/download/v#{version}/Undertone.dmg"
   name "Undertone"
